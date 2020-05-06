@@ -1,0 +1,10 @@
+{
+    "name": "wot-bot",
+    "version": "1.0.0",
+    "description": "Wot Bot?",
+    "main": "app.js",
+    "author": "ArmadilloHead02",
+    "dependencies": {
+        "discord.js": "^12.2.0"
+    }
+}
