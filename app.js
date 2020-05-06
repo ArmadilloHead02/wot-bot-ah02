@@ -1,7 +1,5 @@
 const discord = require('discord.js');
 
-const token = 'NzA3NDcwMzk2OTcwMTA2ODgw.XrJRcg.0_IPOo0BwdMkADSdFnaX0CTZS5g';
-
 // Initialise Discord Bot
 
 const client = new discord.Client();
